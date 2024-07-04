@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=devch1013&theme=onedark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch1013&hide=contribs,prs&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devch1013)](https://github.com/anuraghazra/github-readme-stats)

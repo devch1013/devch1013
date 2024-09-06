@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devch1013&theme=onedark&date_format=%5BY.%5Dn.j&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=devch1013&hide_border=true&theme=tokyo-night&area-color=A9FFBC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 🛠️ Skills
 
